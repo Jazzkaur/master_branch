@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="webdriver-practice">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/selenium-server-standalone-3.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
